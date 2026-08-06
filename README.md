@@ -115,10 +115,10 @@ Full-stack AI platform for intelligent content generation, media management, and
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ghanshyam-singh-a21020181)
 
-)
-[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white)](shyaam403@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghanshyam-singh-a21020181)
+
+[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shyaam403@gmail.com)
 
 ---
 
