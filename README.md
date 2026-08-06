@@ -1,4 +1,4 @@
-# Ghanshyam Singh
+# Hi 👋, I'm Ghanshyam Singh
 
 ### Backend Developer • AI Applications • Full-Stack Engineer
 
@@ -6,19 +6,33 @@ Building intelligent software with backend engineering, artificial intelligence,
 
 ---
 
-## About
+## About Me
 
-Hi, I'm Ghanshyam Singh 👋
 
-Backend developer with a growing interest in artificial intelligence and modern software engineering. I enjoy designing reliable applications, building intelligent systems, and continuously expanding my knowledge through hands-on projects.
+I'm a developer passionate about backend engineering and AI-powered applications. I enjoy building practical software, exploring new technologies, and solving real-world problems through code.
 
-My work focuses on building practical software—from AI-powered applications and Retrieval-Augmented Generation (RAG) systems to backend APIs and full-stack products.
+🔭 Currently working on
+
+Building scalable backend systems, AI-powered applications, and Retrieval-Augmented Generation (RAG) solutions that solve real-world problems.
+
+🤝 Looking to collaborate on
+
+Open-source projects involving Backend Development, Python, Node.js, AI, and developer tools.
+
+🌱 Exploring
+
+System Design, Microservices, Docker, Redis, AWS, and modern backend engineering practices.
+
+💬 Ask me about
+
+Python, Node.js, Express.js, React, REST APIs, MongoDB, PostgreSQL, AI integration, and building full-stack applications.
+
 
 ---
 
 ## Selected Work
 
-### ⚖️ Nyay AI
+### [⚖️ Nyay AI](https://github.com/devbyshyam/NyayaAI)
 
 Multi-Agent legal assistant that combines Retrieval-Augmented Generation with semantic search to deliver context-aware legal assistance.
 
@@ -26,7 +40,7 @@ Multi-Agent legal assistant that combines Retrieval-Augmented Generation with se
 
 ---
 
-### 🎥 AI Video Assistant
+### [🎥 Source One](https://github.com/devbyshyam/SourceOne)
 
 Transforms videos into searchable knowledge using speech transcription, semantic retrieval, and Retrieval-Augmented Generation.
 
@@ -34,7 +48,7 @@ Transforms videos into searchable knowledge using speech transcription, semantic
 
 ---
 
-### ♻️ EcoVision AI
+### [♻️ EcoVision AI](https://github.com/devbyshyam/EcoVision)
 
 Computer vision platform for automated waste detection and environmental assessment using YOLOv8.
 
@@ -42,7 +56,7 @@ Computer vision platform for automated waste detection and environmental assessm
 
 ---
 
-### 🤖 AI Creator Platform
+### [🤖 Creator Platform](https://github.com/devbyshyam/Creator)
 
 Full-stack AI platform for intelligent content generation, media management, and authentication.
 
@@ -98,20 +112,13 @@ Full-stack AI platform for intelligent content generation, media management, and
 ![Postman](https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
-## Currently Exploring
-
-- System Design
-- Cloud Computing
-- AI Agent Architectures
-- Building scalable backend systems
-
----
 
 ## Connect
 
-- LinkedIn
-- Email
-- Portfolio (Coming Soon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ghanshyam-singh-a21020181)
+
+)
+[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white)](shyaam403@gmail.com)
 
 ---
 
